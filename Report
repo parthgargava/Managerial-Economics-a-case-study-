@@ -1,0 +1,163 @@
+THE PRODUCT (CANON)
+
+Incorporated in 1997, Canon India Pvt. Ltd. is a 100% subsidiary of Canon Singapore Pvt. Ltd; a world leader in imaging technologies. Canon today has offices spread across 10 cities in India with an employee strength of over 1100 people and markets 140 comprehensive range of sophisticated and contemporary digital imaging products in the country. These include digital copiers, multi-functional peripherals, fax-machines, inkjet and laser printers, scanners, All-in-ones, digital cameras, digital camcorders , dye sub photo printers and multimedia projectors semiconductors, card printers & cable ID printers. 
+
+Canon has pioneered five technology ‘imaging’ engines viz: Optical Engine, Electro photography, Bubble Jet, Semiconductors and Display which drives Canon’s cutting-edge technology products. With over 1100 registered patented technologies in Digital Cameras, 2300 in inkjet printers, 5600 in multifunctional printers and more than 200 in scanners, Canon has emerged as one of the leading technology innovators in the digital imaging space worldwide. 
+
+Canon India forayed into retail space with the launch of its exclusive brand retail store called “Canon Image Square.” Canon inaugurated 50 retail stores in 2011, targets to inaugurate another 50 by the end of 2012 taking the count to 300 stores in the next 3 years. Canon’s unique initiative to tap B, C and D-class cities of the country, Image Express, reached 38 cities in Tier II and Tier III towns. With the acquisition of Océ Canon was positioned as the undisputed leader in professional and display graphics printing domain in 2010. 
+
+In 2011, Canon India was ranked as one of the top 25 Best Employers in India by Aon Hewitt. The extensive study was conducted across 6 months and 200 companies with a stringent methodology to arrive at the rankings. Metrics covering information on business performance, organization structure, and HR strategy, policies and metrics, employee survey of random population, CEO interviews and on site audit to validate accuracy of information provided and included interaction with HR teams, group discussions with employees and managers, discussion with the CEO, and facility tour of the organization. 
+
+In 2009, Canon was ranked amongst top 10 employers in India in the Business Today ‘Best Companies to Work for in India’ survey. This ranking was given on the basis of a process that involved an understanding of the HR systems of companies, a survey of their employees, and a survey of their external stakeholders such as B-schools, placement firms, and alumni. It was undertaken by Mercer Human Resource Consulting. 
+
+Canon takes pride in not only bringing quality products to the market; but also contributes to minimizing environmental burden through effective application of environmental technologies. Canon focuses on the development of resource conserving products that are smaller, lighter and easy to recycle. In India, Canon takes responsibility to dispose off end of life Canon products and other e-waste by sending such waste to government approved recycling agency. 
+
+Today, Canon India is certified for ISO 9001, ISO 14001 and OHSAS 18001. In 2006 and 2010, the company was certified for its “Strong commitment to excel" at the CII-EXIM Business Excellence Award. Over the last 14 years of its India growth story, Canon’s comprehensive range of the latest digital imaging products supported by a trained sales force across the country has emerged as its key differentiator. 
+
+Canon has around 100 primary channel partners 14 National Retail Chain partners, 7 Canon owned Service Centres and 37 Canon care centres, over 6000 secondary retail points including 270 National Retail Chain store partners. Canon products are available in over 400 towns in India. By end of 2010, Canon has acquired a customer base of over 30 lakh customers in India. 
+
+As part of the company’s promise to enhance digital experience for consumers, Canon Image Lounge was launched in 2008 in Gurgaon for customers to get a touch and feel of Canon products. The lounges provide a comprehensive display of Canon’s vast range of offerings and display over 101 consumer imaging products for consumers to simply look, feel and experience without the compulsion on buying. Special photography workshops and other customer engagement programmes are being held in these lounges. Canon also has Business Solutions Lounge for B2B customers in Gurgaon showcasing business applications alongwith seminar rooms for business workshops. 
+
+
+Trend Projection
+One of the most commonly used forecasting techniques is trend projection. As the name suggests, this approach is based on the assumption that there is an identifiable trend in a time series of data. Trend projection can also be used as the starting point for identifying seasonal and cyclical variations.
+This technique assumes that whatever has been the pattern of demand in the past will continue to hold good in the future as well. Historical data can thus be used to predict the demand for a commodity in the future. In the trend projection method, historical data is collected and fitted into some kind of trend i.e. repetitive behavior pattern. This trend is then extrapolated into the future to get the demand for the forecast period. This trend could be linear or curvilinear or have any other complex shape.
+This technique fits a trend line to a series of historical data points and then projects the line into the future for medium- to long range forecasts. 
+Constant Rate of Change: Suppose that an analyst determines that a forecast will be made assuming that there will be a constant rate of change in sales from one period to the next. That is, the firm’s sales will change by the same amount between two periods. Statistically, this involves estimating the parameters of the equation:
+ St=S0 + bt
+Where S denotes sales and t indicates the time period. The two parameters to be estimated are S0 and b. The value of S0 corresponds to the sales (vertical) axis intercept of the line. The parameter b is the constant rate of change and corresponds to the slope of the line.
+One should remember that the forecasts based on this method should also be judged on the basis of a measure of forecast errors. The least squares method may be applied to find the sum of the squared errors.
+
+Advantages
+1.	It is a very simple method.
+2.	The method provides reasonably accurate forecasts.
+3.	It is quick and inexpensive. 
+Disadvantages
+1.	Can be used only if past data is available.
+2.	It is primarily limited to short-term predictions. If the trend is extrapolated much beyond the last data point, the accuracy of the forecast diminishes rapidly.
+3.	It is not necessary that past trends may continue to hold good in the future as well. Factors such as changes in relative prices and fluctuations in the rate of economic growth are not considered. Rather, the trend projection approach assumes that historical relationships will not change.
+4.	There is no analysis of casual relations between the demand and the time series explaining the whys of it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+T
+
+1	S(million of yen)
+2940128	S*T
+
+2940128	T^2
+
+1	
+2	31,98,072	6396144	4	
+3	34,07,853	10223559	9	
+4	37,54,191	15016764	16	
+5	41,56,759	20783795	25	
+6	44,81,346	26888076	36	
+7	40,94,161	28659127	49	
+8	32,09,201	25673608	64	
+9	37,06,901	33362109	81	
+10	35,57,433	35574330	100	
+				
+
+
+
+
+
+
+
+
+Now, in order to plot the trend line, we will find the forecasted values for all the years from 2002 to 2011:
+            T
+            	S(millions of yen)	S*T	T^2	F	(A-F)^2	
+1	2940128	2940128	1	3392365	2.04518E+11	
+2	31,98,072	6396144	4	3449751	63342552599	
+3	34,07,853	10223559	9	3507138	9857517381	
+4	37,54,191	15016764	16	3564525	35973344048	
+5	41,56,759	20783795	25	3621911	2.86062E+11	
+6	44,81,346	26888076	36	3679298	6.43281E+11	
+7	40,94,161	28659127	49	3736684	1.2779E+11	
+8	32,09,201	25673608	64	3794071	3.42073E+11	
+9	37,06,901	33362109	81	3851457	20896562322	
+10	35,57,433	35574330	100	3908844	1.2349E+11	
+						
+						
+					RMSE= 43091.71
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Elasticity &
+  Cross-Price  elasticity
+
+In economics, elasticity is the measurement of how changing one economic variable affects others. 
+In more technical terms, it is the ratio of the percentage change in one variable to the percentage change in another variable. It is a tool for measuring the responsiveness of a function to changes in parameters in a unit less way. Frequently used elasticity’s include price elasticity of demand, price elasticity of supply, income elasticity of demand, elasticity of substitution between factors of production and elasticity of intertemporal substitution.
+
+In economics, the cross elasticity of demand or cross-price elasticity of demand measures the responsiveness of the demand for a good to a change in the price of another good. It is measured as the percentage change in demand for the first good that occurs in response to a percentage change in price of the second good.
+ A negative cross elasticity denotes two products that are complements, while a positive cross elasticity denotes two substitute products. These two key relationships go against one's intuition, but the reason behind them is fairly simple: assume products A and B are complements, meaning that an increase in the demand for A is caused by an increase in the quantity demanded for B. Therefore, if the price of product B decreases, then the demand curve for product A shifts to the right, increasing A's demand, resulting in a negative value for the cross elasticity of demand. The exact opposite reasoning holds for substitutes.
+ELASTICITY FOR CANON FOR LAST YEAR 2011:
+Q FOR 2010  = 50.4340 (MILLIONS)
+Q FOR 2011  = 48.40044898(MILLIONS)
+ PRICE IN 2010 = 85189(YEN)
+PRICE IN 2011 = 86689(YEN)
+PRICE ELASTICITY COMES OUT TO BE = - 2.3531
+
+
+
+
+
+
+To find cross-price elasticity with respect to NIKON…
+Q FOR CANON FOR 2010=50.4340
+Q FOR CANON FOR 2011=48.40044898
+PRICE IN 2010 FOR NIKON =84180
+PRICE IN 2011 FOR NIKON =82195
+SO THE CROSS PRICE ELASTICITY COMES OUT TO BE..= 1.681688
+1.681688>0 HENCE IT IS A SUBSTITUTE….
+
+
+
+
+	TR	Q (millions)	L (thousands)	MPL	APL
+1	2940128	40.00174	97.802		0.409007
+2	31,98,072	43.51118	102.567	0.736504	0.424222
+3	34,07,853	46.36535	108.257	0.50161	0.42829
+4	37,54,191	51.07743	115.583	0.6432	0.441911
+5	41,56,759	56.55454	118.499	1.878298	0.477258
+6	44,81,346	60.97069	131.352	0.343589	0.464178
+7	40,94,161	55.70287	166.98	-0.14786	0.33359
+8	32,09,201	43.6626	168.879	-6.34032	0.258544
+9	37,06,901	50.43403	197.386	0.237536	0.25551
+10	35,57,433	48.40045	198.307	-2.20801	0.244068
